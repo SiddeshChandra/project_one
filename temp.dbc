@@ -1,0 +1,11 @@
+VERSION ""
+
+NS_ :
+
+BS_:
+
+BU_: Vector__XXX
+
+BO_ 100 MotorRPM: 2 Vector__XXX
+ SG_ RPM : 0|16@1+ (1,0) [0|8000] "rpm" Vector__XXX
+
